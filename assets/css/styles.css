@@ -1216,3 +1216,11 @@ body.js-ready [data-reveal].is-visible { transform: none; }
 @media (max-width: 720px) {
   .pub-tags { align-items: flex-start; flex-direction: column; }
 }
+
+.pi-role {
+  margin: .15rem 0 1.7rem;
+  color: var(--blue);
+  font-size: .82rem;
+  font-weight: 600;
+  letter-spacing: .02em;
+}
